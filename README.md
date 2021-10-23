@@ -14,3 +14,6 @@ An auto tool base on tempermonkey extension for chrome
 ### You can disabled the Tempermonkey to disabled this tool or delete the script in tempelmonkey.
 
 # License MIT
+
+# Buy me a coffee:
+- Binance smartchain wallet (BEP20): `0x55106477674F876FA91da79A009dC3A17dA81c32`
