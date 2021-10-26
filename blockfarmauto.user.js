@@ -14212,7 +14212,9 @@
             );
             if (foundBtn) {
                 foundBtn.click();
-                processSelectMap();
+                setTimeout(function(){
+                    processSelectMap();
+                },3000);
 
             } else {
                 log('Interacted all pot. Check for another land...');
